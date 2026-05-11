@@ -1,0 +1,24 @@
+.color2{
+    color: crimson;
+
+}
+.color1{
+    color: blue;
+}
+
+.margin1{
+    margin: 25px;
+}
+.margin2{
+    margin: 2rem;
+}
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+
+}
+
+.padding{
+    padding: 20px;
+}
